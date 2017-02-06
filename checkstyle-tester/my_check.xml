@@ -23,7 +23,7 @@
          <!-- <module name="NestedSwitchCheck"/> -->
          
          <!-- Example of checkstyle Check usage -->
-         <module name="AbstractClassName"/>
+         <module name="Indentation"/>
     </module>
 <!--
     <module name="SeverityMatchFilter">
